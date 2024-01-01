@@ -1,0 +1,84 @@
+Number of times speaker switched: 61
+
+Total speaking time: 17.93 minutes
+
+Total length of session: 27.62 minutes
+
+Number of unique speakers: 2
+
+
+
+Total talk time
+
+Bradley Scholten: 10.56 minutes - 59%
+
+David Dobervich (he/him): 6.27 minutes - 35%
+
+
+
+Average length of a speech event
+
+Bradley Scholten: 0.06 minutes
+
+David Dobervich (he/him): 0.07 minutes
+
+Number of times speaker switched: 61
+Total speaking time: 17.93 minutes
+Total length of session: 27.62 minutes
+Number of unique speakers: 2
+
+Total talk time
+Bradley Scholten: 10.56 minutes - 59%
+David Dobervich (he/him): 6.27 minutes - 35%
+
+Average length of a speech event
+Bradley Scholten: 0.06 minutes
+David Dobervich (he/him): 0.07 minutes
+Number of times speaker switched: 61
+Total speaking time: 17.93 minutes
+Total length of session: 27.62 minutes
+Number of unique speakers: 2
+
+Total talk time
+Bradley Scholten: 10.56 minutes - 59%
+David Dobervich (he/him): 6.27 minutes - 35%
+
+Average length of a speech event
+Bradley Scholten: 0.06 minutes
+David Dobervich (he/him): 0.07 minutes
+Number of times speaker switched: 61
+
+Total speaking time: 17.93 minutes
+
+Total length of session: 27.62 minutes
+
+Number of unique speakers: 2
+
+
+
+Total talk time
+
+Bradley Scholten: 10.56 minutes - 59%
+
+David Dobervich (he/him): 6.27 minutes - 35%
+
+
+
+Average length of a speech event
+
+Bradley Scholten: 0.06 minutes
+
+David Dobervich (he/him): 0.07 minutes
+
+Number of times speaker switched: 61
+Total speaking time: 17.93 minutes
+Total length of session: 27.62 minutes
+Number of unique speakers: 2
+
+Total talk time
+Bradley Scholten: 10.56 minutes - 59%
+David Dobervich (he/him): 6.27 minutes - 35%
+
+Average length of a speech event
+Bradley Scholten: 0.06 minutes
+David Dobervich (he/him): 0.07 minutes
